@@ -33,7 +33,7 @@ El objetivo es comprender las tendencias y patrones en el bienestar emocional y 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/remote-work-analysis.git
+   git clone https://github.com/esscri97/RemoteWorkTrends.git
 
 2. Instala las dependencias necesarias:
     ```bash
